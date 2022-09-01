@@ -3,10 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+RAFAEL+PERES;I'M+30+YEARS+OLD;I+AM+FROM+BRAZIL;I+AM+A+WEB+DEVELOPER;Welcome+to+My+Github!)](https://git.io/typing-svg)
 
-<img align="right" src="https://user-images.githubusercontent.com/58151594/187730602-be87312f-34c9-4e36-b1e1-0e5d85b3be72.png" />
-
+<div width="100%" align="center">
+<img  width="400em" src="https://user-images.githubusercontent.com/58151594/187730602-be87312f-34c9-4e36-b1e1-0e5d85b3be72.png" />
+</div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rafaeldasilvaperes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Peres github stats" /> 
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeldasilvaperes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeldasilvaperes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 
