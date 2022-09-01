@@ -8,7 +8,6 @@
 </div>
 
 <h2 align="center">:telephone_receiver: Contacts</h2>
-
 <p align="center">
 <a href="mailto:rafaeldasilvaperes@hotmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RafaelPeres-05122A?style=for-the-badge&logo=microsoftoutlook&color=048a84" title="E-mail" alt="email"/>
@@ -26,7 +25,7 @@
  <img align="center" src="https://img.shields.io/badge/-RafaelPeres-05122A?style=for-the-badge&logo=whatsapp&color=048a84" title="WhatsApp" alt="WhatsApp"/>
 </a>
 </p>
-
+<hr>
 
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rafaeldasilvaperes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Peres github stats" /> 
@@ -34,6 +33,7 @@
 </div>
 
 <br><br><br><br><br><br><br><br><br><br>
+<hr>
 
 <h2>:computer::books: Meus Projetos:</h2>
 <ul>
