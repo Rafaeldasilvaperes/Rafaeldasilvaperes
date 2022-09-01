@@ -78,7 +78,7 @@
 </li>
 
 <li> 
-  Tic Tac Toe / Jogo da Velha - 
+  Tic Tac Toe - 
   <a href="https://rafaelperestictactoe.web.app">
     Demo
   </a> / 
