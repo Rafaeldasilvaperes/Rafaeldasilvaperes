@@ -40,9 +40,9 @@
 </div>
 
 <br><br><br><br><br><br><br><br><br><br>
-<hr>
+<hr id="projetos">
 
-<h2 id="projetos">:computer::books: Meus Projetos:</h2>
+<h2>:computer::books: Meus Projetos:</h2>
 <ul>
 <li> 
   Alura Music - 
