@@ -142,4 +142,10 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Ethereum](https://img.shields.io/badge/-Ethereum-0D1117?style=for-the-badge&logo=ethereum&labelColor=0D1117)&nbsp;
 
+
+<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rafaeldasilvaperes&color=04c8be" alt="Profile views" /> </p>
+<hr>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04c8be&height=80&section=footer"/>
