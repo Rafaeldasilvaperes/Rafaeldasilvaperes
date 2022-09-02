@@ -14,19 +14,19 @@
 <h2 align="left">:telephone_receiver: Contacts</h2>
 <p align="left">
 <a href="mailto:rafaeldasilvaperes@hotmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=microsoftoutlook&color=048a84" title="E-mail" alt="email"/>
+  <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=microsoftoutlook&color=026561" title="E-mail" alt="email"/>
 </a>
 <a href="https://www.linkedin.com/in/rafael-da-silva-peres-ba4228bb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=linkedin&color=048a84" title="LinkedIn" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=linkedin&color=026561" title="LinkedIn" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/rafoulsp" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=instagram&color=048a84" title="Instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=instagram&color=026561" title="Instagram" alt="instagram"/>
 </a>
 <a href="https://rafaeldasilvaperes.github.io/Portfolio-Rafael-Peres/curriculo.html" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=adobe&color=048a84" title="Resume/Currículo" alt="Currículo"/>
+ <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=adobe&color=026561" title="Resume/Currículo" alt="Currículo"/>
 </a>
-<a href="https://api.whatsapp.com/send?phone=5512988505683&text=Oi, eu sou o Rafael!%20Como vão as coisas com você?%20Bora conversar! :D" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=whatsapp&color=048a84" title="WhatsApp" alt="WhatsApp"/>
+<a href="https://api.whatsapp.com/send?phone=5512988505683&text=Oi Rafa, hoje a cerveja é por minha conta!" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=whatsapp&color=026561" title="WhatsApp" alt="WhatsApp"/>
 </a>
 </p>
 <hr>
@@ -42,7 +42,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 <hr id="projetos">
 
-<h2>:computer::books: Meus Projetos:</h2>
+<h2>:computer::books: My Projects:</h2>
 <ul>
 <li> 
   Alura Music - 
@@ -108,6 +108,38 @@
   </a>
 </li>
 </ul>
+<hr>
+<br>
 
+<h2>:rocket: Main Skills:</h2>
+
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp;
+
+
+<br>
+
+<h2>:wrench: Tools:</h2>
+
+![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117&labelColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+
+<br>
+
+<h2>:heavy_plus_sign: Other Knowledge:</h2>
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+
+<h2>:books: Studying in this moment:</h2>
+
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Ethereum](https://img.shields.io/badge/-Ethereum-0D1117?style=for-the-badge&logo=ethereum&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04c8be&height=80&section=footer"/>
