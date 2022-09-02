@@ -11,8 +11,8 @@
 <img width="40%" src="https://user-images.githubusercontent.com/58151594/188018840-eed3ffb2-48f9-415a-99ef-26eb6c513480.png" />
 </div>
 
-<h2 align="center">:telephone_receiver: Contacts</h2>
-<p align="center">
+<h2 align="left">:telephone_receiver: Contacts</h2>
+<p align="left">
 <a href="mailto:rafaeldasilvaperes@hotmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RafaelPeres-05122A?style=for-the-badge&logo=microsoftoutlook&color=048a84" title="E-mail" alt="email"/>
 </a>
