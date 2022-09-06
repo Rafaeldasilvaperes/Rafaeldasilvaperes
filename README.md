@@ -35,8 +35,8 @@
 
 <h2>:gear: GitHub Stats</h2>
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rafaeldasilvaperes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Peres github stats" /> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeldasilvaperes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Rafaeldasilvaperes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Peres github stats" /> 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeldasilvaperes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <br><br><br><br><br><br><br><br><br><br>
