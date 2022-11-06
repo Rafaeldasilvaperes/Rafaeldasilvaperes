@@ -14,19 +14,19 @@
 <h2 align="left">:telephone_receiver: Contacts</h2>
 <p align="left">
 <a href="mailto:rafaeldasilvaperes@hotmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=microsoftoutlook&color=026561" title="E-mail" alt="email"/>
+  <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat-square&logo=microsoftoutlook&color=026561" title="E-mail" alt="email"/>
 </a>
 <a href="https://www.linkedin.com/in/rafael-da-silva-peres-ba4228bb" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=linkedin&color=026561" title="LinkedIn" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat-square&logo=linkedin&color=026561" title="LinkedIn" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/rafoulsp" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=instagram&color=026561" title="Instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat-square&logo=instagram&color=026561" title="Instagram" alt="instagram"/>
 </a>
 <a href="https://rafaeldasilvaperes.github.io/Portfolio-Rafael-Peres/curriculo.html" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=adobe&color=026561" title="Resume/Currículo" alt="Currículo"/>
+ <img align="center" src="https://img.shields.io/badge/-Github-05122A?style=flat-square&logo=adobe&color=026561" title="Resume/Currículo" alt="Currículo"/>
 </a>
 <a href="https://api.whatsapp.com/send?phone=5512988505683&text=Oi Rafa, hoje a cerveja é por minha conta!" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-RAFAELPERES-05122A?style=flat-square&logo=whatsapp&color=026561" title="WhatsApp" alt="WhatsApp"/>
+ <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat-square&logo=whatsapp&color=026561" title="WhatsApp" alt="WhatsApp"/>
 </a>
 </p>
 <hr>
