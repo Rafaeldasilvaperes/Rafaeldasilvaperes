@@ -23,7 +23,7 @@
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat-square&logo=instagram&color=026561" title="Instagram" alt="instagram"/>
 </a>
 <a href="https://rafaeldasilvaperes.github.io/Portfolio-Rafael-Peres/curriculo.html" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Github-05122A?style=flat-square&logo=adobe&color=026561" title="Resume/Currículo" alt="Currículo"/>
+ <img align="center" src="https://img.shields.io/badge/-Resume-05122A?style=flat-square&logo=adobe&color=026561" title="Resume/Currículo" alt="Currículo"/>
 </a>
 <a href="https://api.whatsapp.com/send?phone=5512988505683&text=Oi Rafa, hoje a cerveja é por minha conta!" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat-square&logo=whatsapp&color=026561" title="WhatsApp" alt="WhatsApp"/>
