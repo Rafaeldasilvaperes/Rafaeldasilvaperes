@@ -42,69 +42,75 @@
 
 <hr id="projetos">
 
-<h2>:computer::books: My Projects:</h2>
+<h2>:computer::books: My Main Projects:</h2>
 <ul>
+<li>
+  Alura Music - backend - (Nodejs on Heroku and Cyclic)
+  <a href="https://github.com/Rafaeldasilvaperes/Alura-Music-API-in-nodejsExpress" >
+    Repo
+  </a>
+</li>
 <li> 
-  Alura Music - 
+  Alura Music - frontend - (JS/HTML/CSS on Heroku)
   <a href="https://rafaeldasilvaperes.github.io/Segundo-Challenge-FrontEnd-OracleONE-Alura/index.html">
     Demo
   </a> / 
   <a href="https://github.com/Rafaeldasilvaperes/Segundo-Challenge-FrontEnd-OracleONE-Alura">
-    Repositório
+    Repo
   </a>
 </li>
 
 <li> 
-  Portfolio Pessoal - 
+  Portfolio Pessoal - (JS/HTML/CSS on Heroku) 
   <a href="https://rafaeldasilvaperes.github.io/Portfolio-Rafael-Peres">
     Demo
   </a> / 
   <a href="https://github.com/Rafaeldasilvaperes/Portfolio-Rafael-Peres">
-    Repositório
+    Repo
   </a>
 </li>
   
 <li> 
-  Jogo da Forca - 
+  Jogo da Forca - (JS/HTML/CSS on Heroku)
   <a href="https://rafaeldasilvaperes.github.io/Segundo-Challenge-Oracle-ONE">
     Demo
   </a> / 
   <a href="https://github.com/Rafaeldasilvaperes/Segundo-Challenge-Oracle-ONE">
-    Repositório
+    Repo
   </a>
 </li>
   
 <li> 
-  Decodificador - 
+  Decodificador - (JS/HTML/CSS on Heroku)
   <a href="https://rafaeldasilvaperes.github.io/Primeiro-Challenge-Oracle-ONE">
     Demo
   </a> / 
   <a href="https://github.com/Rafaeldasilvaperes/Primeiro-Challenge-Oracle-ONE">
-    Repositório
+    Repo
   </a>
 </li>
 
 <li> 
-  Tic Tac Toe - 
+  Tic Tac Toe - (Angular on Firebase as PWA)
   <a href="https://rafaelperestictactoe.web.app">
     Demo
   </a> / 
   <a href="https://github.com/Rafaeldasilvaperes/TicTacToe_on_angular">
-    Repositório
+    Repo
   </a>
 </li>
 
 <li> 
-  Arthou (Projeto pessoal) -  
+  Arthou (Personal Project - Paused) -  
   <a href="https://github.com/Rafaeldasilvaperes/Arthou">
-    Repositório
+    Repo
   </a>
 </li>
   
 <li> 
-  Scrapity Scraper -  
+  Scrapity Scraper - (Python)
   <a href="https://github.com/Rafaeldasilvaperes/Scrapity_Scraper">
-    Repositório
+    Repo
   </a>
 </li>
 </ul>
