@@ -44,16 +44,22 @@
 
 <h2>:computer::books: My Main Projects:</h2>
 <ul>
+  <li>
+  Alura Music - backend API - (C#)
+  <a href="https://github.com/Rafaeldasilvaperes/AluraMusicAPIRest-C-Sharp" > 
+    - Repo
+  </a>
+</li>
 <li>
-  Alura Music - backend - (Nodejs on Heroku and Cyclic)
-  <a href="https://github.com/Rafaeldasilvaperes/Alura-Music-API-in-nodejsExpress" >
-    Repo
+  Alura Music - backend API - (Nodejs on Heroku and Cyclic)
+  <a href="https://github.com/Rafaeldasilvaperes/Alura-Music-API-in-nodejsExpress" > 
+    - Repo
   </a>
 </li>
 <li> 
   Alura Music - frontend - (JS/HTML/CSS on Heroku)
-  <a href="https://rafaeldasilvaperes.github.io/Segundo-Challenge-FrontEnd-OracleONE-Alura/index.html">
-    Demo
+  <a href="https://rafaeldasilvaperes.github.io/Segundo-Challenge-FrontEnd-OracleONE-Alura/index.html"> 
+    - Demo
   </a> / 
   <a href="https://github.com/Rafaeldasilvaperes/Segundo-Challenge-FrontEnd-OracleONE-Alura">
     Repo
@@ -62,8 +68,8 @@
 
 <li> 
   Portfolio Pessoal - (JS/HTML/CSS on Heroku) 
-  <a href="https://rafaeldasilvaperes.github.io/Portfolio-Rafael-Peres">
-    Demo
+  <a href="https://rafaeldasilvaperes.github.io/Portfolio-Rafael-Peres"> 
+    - Demo
   </a> / 
   <a href="https://github.com/Rafaeldasilvaperes/Portfolio-Rafael-Peres">
     Repo
@@ -72,8 +78,8 @@
   
 <li> 
   Jogo da Forca - (JS/HTML/CSS on Heroku)
-  <a href="https://rafaeldasilvaperes.github.io/Segundo-Challenge-Oracle-ONE">
-    Demo
+  <a href="https://rafaeldasilvaperes.github.io/Segundo-Challenge-Oracle-ONE"> 
+    - Demo
   </a> / 
   <a href="https://github.com/Rafaeldasilvaperes/Segundo-Challenge-Oracle-ONE">
     Repo
@@ -82,8 +88,8 @@
   
 <li> 
   Decodificador - (JS/HTML/CSS on Heroku)
-  <a href="https://rafaeldasilvaperes.github.io/Primeiro-Challenge-Oracle-ONE">
-    Demo
+  <a href="https://rafaeldasilvaperes.github.io/Primeiro-Challenge-Oracle-ONE"> 
+    - Demo
   </a> / 
   <a href="https://github.com/Rafaeldasilvaperes/Primeiro-Challenge-Oracle-ONE">
     Repo
@@ -92,8 +98,8 @@
 
 <li> 
   Tic Tac Toe - (Angular on Firebase as PWA)
-  <a href="https://rafaelperestictactoe.web.app">
-    Demo
+  <a href="https://rafaelperestictactoe.web.app"> 
+    - Demo
   </a> / 
   <a href="https://github.com/Rafaeldasilvaperes/TicTacToe_on_angular">
     Repo
@@ -101,16 +107,16 @@
 </li>
 
 <li> 
-  Arthou (Personal Project - Paused) -  
-  <a href="https://github.com/Rafaeldasilvaperes/Arthou">
-    Repo
+  Arthou (Personal Project - Paused)  
+  <a href="https://github.com/Rafaeldasilvaperes/Arthou"> 
+    - Repo
   </a>
 </li>
   
 <li> 
   Scrapity Scraper - (Python)
-  <a href="https://github.com/Rafaeldasilvaperes/Scrapity_Scraper">
-    Repo
+  <a href="https://github.com/Rafaeldasilvaperes/Scrapity_Scraper"> 
+    - Repo
   </a>
 </li>
 </ul>
