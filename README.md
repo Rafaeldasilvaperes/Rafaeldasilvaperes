@@ -67,7 +67,7 @@
 </li>
 
 <li> 
-  Portfolio Pessoal - (JS/HTML/CSS on Heroku) 
+  Portfolio Pessoal - (JS/HTML/CSS on Github Pages) 
   <a href="https://rafaeldasilvaperes.github.io/Portfolio-Rafael-Peres"> 
     - Demo
   </a> / 
@@ -77,7 +77,7 @@
 </li>
   
 <li> 
-  Jogo da Forca - (JS/HTML/CSS on Heroku)
+  Jogo da Forca - (JS/HTML/CSS on Github Pages)
   <a href="https://rafaeldasilvaperes.github.io/Segundo-Challenge-Oracle-ONE"> 
     - Demo
   </a> / 
@@ -87,7 +87,7 @@
 </li>
   
 <li> 
-  Decodificador - (JS/HTML/CSS on Heroku)
+  Decodificador - (JS/HTML/CSS on Github Pages)
   <a href="https://rafaeldasilvaperes.github.io/Primeiro-Challenge-Oracle-ONE"> 
     - Demo
   </a> / 
