@@ -31,7 +31,7 @@
 </p>
 <hr>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Rafaeldasilvaperes&theme=gotham&hide_border=true&area=true)
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Rafaeldasilvaperes&theme=gotham&hide_border=true&area=true)
 
 <h2>:gear: GitHub Stats</h2>
 <div align="center">
