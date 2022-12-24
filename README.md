@@ -51,13 +51,13 @@
   </a>
 </li>
 <li>
-  Alura Music - backend API - (Nodejs on Heroku and Cyclic)
+  Alura Music - backend API - (Nodejs on Cyclic)
   <a href="https://github.com/Rafaeldasilvaperes/Alura-Music-API-in-nodejsExpress" > 
     - Repo
   </a>
 </li>
 <li> 
-  Alura Music - frontend - (JS/HTML/CSS on Heroku)
+  Alura Music - frontend - (JS/HTML/CSS on Github Pages)
   <a href="https://rafaeldasilvaperes.github.io/Segundo-Challenge-FrontEnd-OracleONE-Alura/index.html"> 
     - Demo
   </a> / 
